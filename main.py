@@ -1,1 +1,1 @@
-hello my name is seunghoon.
+print("hello, world")
